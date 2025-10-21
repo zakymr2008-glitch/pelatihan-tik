@@ -1,7 +1,7 @@
 body {
-  background-color: #000000;
+  background-color: #000000; /* warna hitam */
   font-family: Arial, sans-serif;
-  color: #000000;
+  color: #00008B;
 }
 
 .kartu-profil {
@@ -16,6 +16,4 @@ body {
 
 .kartu-profil img {
   width: 150px;
-  border-radius: 50px;
-}
-
+  border-radius: 50%;
